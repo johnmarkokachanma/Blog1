@@ -1,0 +1,20 @@
+STEP ONE:
+I Created a folder named Blog1 in my desktop
+
+STEP TWO:
+I did npm init to install the package.JSON from the terminal in VScode & other depedencies needed
+
+STEP THREE:
+I also installed some depedencies that I needed for the project
+
+STEP FOUR:
+I created a file app.js that servers as start server, require my packages from the depedencies and finally for my route.
+
+STEP FIVE:
+I created a route folder that holds the home.route.js(codes) which servers as the process used in selecting paths
+
+STEP SIX:
+I have other folders like midlleware which is simply a body parser using next() and a controllers folder(codes) which accepts requests and handles them.
+
+STEP SEVEN:
+Finally i have an .env file used to hide my secret files.
